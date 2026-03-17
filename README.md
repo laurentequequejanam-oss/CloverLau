@@ -1,5 +1,5 @@
 # MarianaLaurente
-# 💫 About Me:
+# 💫 Sobre mi:
 Soy estudiante de Ingeniería de Sistemas con un fuerte interés en el desarrollo de soluciones tecnológicas innovadoras, especialmente en el ámbito de la inteligencia artificial y el análisis de datos. Me apasiona comprender cómo la tecnología puede transformar procesos tradicionales en sistemas inteligentes, eficientes y escalables.<br><br>He trabajado en proyectos que integran hardware y software, lo que me ha permitido desarrollar habilidades tanto en programación como en diseño de arquitecturas tecnológicas. Además, tengo experiencia en modelado de procesos, pensamiento analítico y resolución de problemas.<br><br>Actualmente, estoy enfocada en fortalecer mis conocimientos en inteligencia artificial, automatización y desarrollo de aplicaciones inteligentes, con el objetivo de crear herramientas que impacten positivamente en la sociedad.<br><br>Aspiro a convertirme en una ingeniera de sistemas especializada en IA, capaz de liderar proyectos tecnológicos innovadores, aportar valor estratégico a organizaciones y contribuir al desarrollo de soluciones que mejoren la calidad de vida de las personas.
 
 
